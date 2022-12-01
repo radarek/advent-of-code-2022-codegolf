@@ -1,0 +1,1 @@
+p$<.chunk_while{_1>?!}.map{_1.sum &:to_i}.max
