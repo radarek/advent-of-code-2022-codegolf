@@ -2,10 +2,22 @@
 
 Here are my golfed solutions to [Advent of Code 2022](https://adventofcode.com/2022).
 
-All programs read data from the standard input stream and outputs answers to the standard output stream. This makes very easy to run programs with different set of input tests, using `<` in the shell:
+All programs read data from the standard input stream and outputs answers to the standard output stream. This makes very easy to run programs with different set of input tests. 
+You can pass file with stdin using < in the shell. 
+Or pass filename as parameter or pass content with `|` pipe.
 
 ```shell
 ruby solver.rb < test0.in
+```
+
+```shell
+ruby solver.rb test0.in
+```
+
+or
+
+```shell
+echo "A X\nB Z" | ruby solver.rb
 ```
 
 ### Progress
