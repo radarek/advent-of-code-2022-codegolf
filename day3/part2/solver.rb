@@ -1,0 +1,1 @@
+p$<.sum{c,=_1.bytes&gets.bytes&gets.bytes;c>96?c-96:c-38}
