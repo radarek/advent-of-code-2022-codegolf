@@ -1,0 +1,1 @@
+p$<.count{p,q=eval"[#{_1.gsub ?-,'..'}]";p.cover?(q)||q.cover?(p)}
