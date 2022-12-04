@@ -1,0 +1,1 @@
+p$<.count{eval"p,q,r,s=#{_1.tr ?-,?,};r<=q&&s>=p"}
