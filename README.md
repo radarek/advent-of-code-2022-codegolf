@@ -21,7 +21,7 @@ echo "A X\nB Z" | ruby solver.rb
 ```
 
 ### Progress
-⛳ 8/50
+⛳ 10/50
 
 ### List of problems and results (code length in bytes)
 
@@ -31,3 +31,4 @@ echo "A X\nB Z" | ruby solver.rb
 | [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)| **[33](day2/part1/solver2.rb)** | **[38](day2/part2/solver.rb)** |
 | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)| **[54](day3/part1/solver3.rb)** | **[51](day3/part2/solver3.rb)** |
 | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)| **[52](day4/part1/solver4.rb)** | **[50](day4/part2/solver4.rb)** |
+| [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)| **[190](day5/part1/solver.rb)** | **[182](day5/part2/solver.rb)** |
