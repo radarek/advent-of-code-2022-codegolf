@@ -1,1 +1,1 @@
-gets;p (3..).find{$_[_1-4,4].chars.uniq[3]}
+gets;p (4..).find{$_[_1-4,4].chars.uniq[3]}

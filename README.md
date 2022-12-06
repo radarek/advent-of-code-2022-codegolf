@@ -32,4 +32,4 @@ echo "A X\nB Z" | ruby solver.rb
 | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)| **[54](day3/part1/solver3.rb)** | **[51](day3/part2/solver3.rb)** |
 | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)| **[52](day4/part1/solver4.rb)** | **[50](day4/part2/solver4.rb)** |
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)| **[190](day5/part1/solver.rb)** | **[182](day5/part2/solver.rb)** |
-| [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)| **[43](day6/part1/solver.rb)** | **[47](day6/part2/solver.rb)** |
+| [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)| **[43](day6/part1/solver.rb)** | **[46](day6/part2/solver2.rb)** |
