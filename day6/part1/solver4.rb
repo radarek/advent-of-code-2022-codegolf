@@ -1,0 +1,1 @@
+gets;p (4..).find{!$_[_1-4,4].chars.uniq!}
